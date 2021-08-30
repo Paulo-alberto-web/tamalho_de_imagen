@@ -1,0 +1,1 @@
+tamalho_de_imagen
