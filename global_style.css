@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+
+.conteine{
+    width: 800px;
+    height: 70vh;
+    margin: 0 auto;
+}
+.conteiner_images h1{
+    text-align: center;
+   text-transform: capitalize;
+   font-size: 1.5rem;
+}
